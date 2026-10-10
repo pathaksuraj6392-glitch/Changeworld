@@ -1,0 +1,6 @@
+{
+  "name": "Depth Clock",
+  "description": "AI-powered lock screen depth clock & wallpaper studio with on-device ML Kit subject segmentation, interactive 3D layer positioning, and live wallpaper support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

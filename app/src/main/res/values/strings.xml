@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Depth Clock</string>
+    <string name="tagline">HyperOS &amp; iOS Depth Lock Screen Studio</string>
+    <string name="pick_photo">Pick Photo</string>
+    <string name="apply_wallpaper">Set Wallpaper</string>
+    <string name="save_image">Save HD Image</string>
+    <string name="onboarding_title">Welcome to Depth Clock</string>
+    <string name="onboarding_subtitle">Create stunning lock screen depth effects where the clock sits seamlessly behind your photo\'s main subject.</string>
+    <string name="live_wallpaper_service_label">Depth Clock Live Wallpaper</string>
+    <string name="live_wallpaper_service_description">Real-time interactive depth clock with subject occlusion layer</string>
+</resources>
